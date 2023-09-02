@@ -13,7 +13,10 @@ h1{
 .box{
   width: 300px;
   margin: 0px auto;
-  list-style: none;
+}
+
+.box li{
+    list-style: none;
 }
 
 .link{
